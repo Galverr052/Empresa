@@ -1,0 +1,52 @@
+justificación:
+
+-Propuesta de negocio y licencia
+-Nombre comercial del software
+
+OlivaTrack — Sistema de gestión integral para cooperativas de aceituna.
+
+-Descripción breve
+
+OlivaTrack permite registrar desde el móvil la recogida de aceitunas por parcela, gestionar cooperativistas, lotes e informes de trazabilidad. Todo orientado a digitalizar el proceso agrícola con transparencia y eficiencia.
+
+-Modelo de negocio elegido: Modelo mixto
+Justificación
+
+He elegido un modelo mixto, donde el núcleo del sistema (registro de parcelas, gestión de cooperativistas, trazabilidad) será open source, mientras que los módulos avanzados (análisis, exportación de datos a Excel/Power BI, informes comparativos entre campañas) serán de pago.
+
+Esto permite:
+
+Facilitar la adopción del software por cooperativas pequeñas.
+
+Mantener una comunidad activa que contribuya al núcleo.
+
+Obtener ingresos sostenibles a través de módulos premium y soporte.
+
+-Licencia elegida: MIT License
+
+(Fuente: choosealicense.com/licenses/mit/
+)
+
+📋 ¿Por qué la elijo?
+
+La licencia MIT es muy permisiva y facilita que otras cooperativas, empresas o programadores puedan usar y adaptar el software sin muchas restricciones. Es ideal para atraer colaboración y dar visibilidad a mi trabajo como freelance.
+
+-Derechos que doy a otros
+
+Pueden usar el software con fines comerciales o personales.
+
+Pueden modificar el código y distribuir versiones modificadas.
+
+Pueden incluirlo en otros proyectos, incluso propietarios.
+
+-Limitaciones que impongo
+
+No ofrezco garantía ni asumo responsabilidad por daños derivados del uso.
+
+Deben mantener el aviso de copyright y la licencia original en el código.
+
+-Ventajas económicas y éticas
+
+Económicamente: me permite cobrar por soporte, módulos premium y personalización.
+
+Éticamente: contribuyo al software libre y al desarrollo tecnológico rural, fomentando la cooperación entre cooperativas.
